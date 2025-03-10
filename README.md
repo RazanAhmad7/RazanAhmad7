@@ -1,12 +1,12 @@
-<h2 align="left">Hi there 👋! I am Razan Al-Samry</h2>
+<h1 align="left">Hi there 👋! I am Razan Al-Samry</h1>
 
 ###
 
-<h4 align="center">Software Engineering 👩🏻‍💻 | Full-Stack Web Developer 💻<br>Flutter Developer 📱| UX/UI Designer 🎨</h4>
+<h2 align="center">Software Engineering 👩🏻‍💻 | Full-Stack Web Developer 💻<br>Flutter Developer 📱| UX/UI Designer 🎨</h2>
 
 ###
 
-<p align="center">Want to see my latest updates? Check them here ..</p>
+<h3 align="center">Want to see my latest updates? Check them here ..</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">👩🏻‍💻 All Languages, Technologies, and Tools ..</h4>
+<h3 align="left">👩🏻‍💻 All Languages, Technologies, and Tools ..</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h4 align="left">🚀 I master turning ideas into reality with ..</h4>
+<h3 align="left">🚀 I master turning ideas into reality with ..</h3>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning ..</h4>
+<h3 align="left">🌱 I’m currently learning ..</h3>
 
 ###
 
@@ -108,7 +108,7 @@
 
 ###
 
-<h4 align="left">👩🏻‍💻 All of my projects are available at ..</h4>
+<h3 align="left">👩🏻‍💻 All of my projects are available at ..</h3>
 
 ###
 
@@ -120,7 +120,7 @@
 
 ###
 
-<h4 align="left">📱 Social links ..</h4>
+<h3 align="left">📱 Social links ..</h3>
 
 ###
 
@@ -139,7 +139,7 @@
 
 ###
 
-<p align="left">💥 GitHub State ..</p>
+<h3 align="left">💥 GitHub State ..</h3>
 
 ###
 
@@ -149,6 +149,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/RazanAhmad7/RazanAhmad7/output/snake.svg" alt="Snake animation" />
 
