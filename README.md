@@ -139,7 +139,7 @@
 
 ###
 
-<h3 align="left">💥 GitHub State ..</h3>
+<h3 align="left">💥 GitHub Stats ..</h3>
 
 ###
 
@@ -149,9 +149,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RazanAhmad7/RazanAhmad7/output/snake.svg" alt="Snake animation" />
 
 ###
