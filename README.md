@@ -133,7 +133,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="35" alt="Discord logo" />
   </a>
 
-  <a href="mailto:razanalsamra@gmail.com">
+  <a href="mailto:razan.alsamra77@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14840&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail logo" />
   </a>
 </div>
