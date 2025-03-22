@@ -125,16 +125,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/razan-alsamri " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn logo" />
   </a>
-  <img src="https://discord.gg/2xpd5BcF" height="35" alt="discord logo"  />
-<a href="mailto:razanalsamra@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14840&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo" />
-</a>
 
- 
+  <a href="https://discord.gg/2xpd5BcF" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="35" alt="Discord logo" />
+  </a>
+
+  <a href="mailto:razanalsamra@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14840&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail logo" />
+  </a>
 </div>
+
 
 ###
 
