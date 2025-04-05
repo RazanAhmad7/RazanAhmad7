@@ -108,19 +108,20 @@
 
 ###
 
-<h3 align="left">👩🏻‍💻 All of my projects are available at ..</h3>
+<h3 align="left">👩🏻‍💻 All of my projects are available at my portfolios on ..</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Portfolio&logo=linkedin&label=&color=6667B5&logoColor=&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+
+ <!-- Mostaql (no official logo, using globe icon and simplified style) -->
+  <a href="https://mostaql.com/u/your-profile-link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=internet-explorer&label=&color=1E93A1&logoColor=white&style=flat" height="35" alt="mostaql link" />
   </a>
-  <a href="https://mostaql.com/u/Razan_Alsamry/portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=linkedin&label=&color=1E93A1&logoColor=&labelColor=&style=flat" height="35" alt="mostaql logo"  />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01a2b4ce6fde353fe9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=&labelColor=&style=flat" height="35" alt="upwork logo"  />
+
+  <!-- Upwork (white logo color for contrast) -->
+  <a href="https://www.upwork.com/freelancers/~your-profile-link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=flat" height="35" alt="upwork logo" />
   </a>
 </div>
 
