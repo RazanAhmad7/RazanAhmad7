@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Razan's&color=0077B5&logoColor=white&labelColor=&style=flat" height="44" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Razan's&color=0077B5&logoColor=white&labelColor=&style=flat" height="60" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -74,11 +74,11 @@
 
 <div align="left">
   <a href="https://mostaql.com/u/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=internet-explorer&label=&color=1E93A1&logoColor=white&style=flat" height="35" alt="mostaql link" />
+    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=internet-explorer&label=&color=1E93A1&logoColor=white&style=flat" height="45" alt="mostaql link" />
   </a>
 
   <a href="https://www.upwork.com/freelancers/~your-profile-link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=flat" height="35" alt="upwork logo" />
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=flat" height="45" alt="upwork logo" />
   </a>
 </div>
 
