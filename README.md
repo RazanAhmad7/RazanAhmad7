@@ -4,7 +4,7 @@
 
 <h2 align="center">Freelancer 💼 | Software Engineer 👩🏻‍💻 | Full-Stack Web Developer 💻 | .NET ⚡ | Responsive & Scalable Web Apps 🌐 | Turning Ideas into Reality 🚀</h2>
 
-###&
+###
 
 <h3 align="center">Want to see my latest projects? Check them here ..</h3>
 
