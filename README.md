@@ -6,13 +6,13 @@
 
 ###
 
-<h3 align="center">Want to see my latest projects? Check them here ..</h3>
+<h3 align="center">Want to see my latest updates? Check them here ..</h3>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Razan's&color=0077B5&logoColor=white&labelColor=&style=flat" height="100" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Razan's&color=0077B5&logoColor=white&labelColor=&style=flat" height="44" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -29,7 +29,17 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="15" />
@@ -39,9 +49,23 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="40" alt="trello logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
 ###
@@ -64,23 +88,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
 
-<h3 align="left">👩🏻‍💻 Check all my freelance projects here ..</h3>
+<h3 align="left">🌱 I’m currently learning ..</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="left">👩🏻‍💻 All of my projects are available at my portfolios on ..</h3>
+
+###
+
+<div align="left">
+
+ <!-- Mostaql (no official logo, using globe icon and simplified style) -->
   <a href="https://mostaql.com/u/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=internet-explorer&label=&color=1E93A1&logoColor=white&style=flat" height="45" alt="mostaql link" />
+    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=internet-explorer&label=&color=1E93A1&logoColor=white&style=flat" height="35" alt="mostaql link" />
   </a>
 
+  <!-- Upwork (white logo color for contrast) -->
   <a href="https://www.upwork.com/freelancers/~your-profile-link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=flat" height="45" alt="upwork logo" />
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=flat" height="35" alt="upwork logo" />
   </a>
 </div>
+
 
 ###
 
@@ -93,14 +137,19 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn logo" />
   </a>
 
+  <a href="https://discord.gg/2xpd5BcF" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="35" alt="Discord logo" />
+  </a>
+
   <a href="mailto:razan.alsamra77@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14840&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail logo" />
   </a>
 </div>
 
+
 ###
 
-<h3 align="center">💥 GitHub Stats ..</h3>
+<h3 align="left">💥 GitHub Stats ..</h3>
 
 ###
 
@@ -111,8 +160,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://mostaql.com/u/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20my%20Mostaql%20Profile-Click%20Here-1E93A1?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Mostaql Button" />
-  </a>
-</div>
+###
