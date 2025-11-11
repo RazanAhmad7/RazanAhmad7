@@ -10,10 +10,10 @@
 
 ###
 <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge&logoWidth=80"
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge&logoWidth=180"
        alt="linkedin logo" />
 </a>
-###
+
 
 <h3 align="left">👩🏻‍💻 All Languages, Technologies, and Tools ..</h3>
 
