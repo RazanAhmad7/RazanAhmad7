@@ -94,33 +94,15 @@
 
 ###
 
-<h3 align="left">🌱 I’m currently learning ..</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">👩🏻‍💻 All of my projects are available at my portfolios on ..</h3>
+<h3 align="left">👩🏻‍💻 All of my projects are available at my portfolio on ..</h3>
 
 ###
 
 <div align="left">
 
- <!-- Mostaql (no official logo, using globe icon and simplified style) -->
-  <a href="https://mostaql.com/u/your-profile-link" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mostaql&logo=internet-explorer&label=&color=1E93A1&logoColor=white&style=flat" height="35" alt="mostaql link" />
-  </a>
 
   <!-- Upwork (white logo color for contrast) -->
-  <a href="https://www.upwork.com/freelancers/~your-profile-link" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01a2b4ce6fde353fe9?mp_source=share" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=flat" height="35" alt="upwork logo" />
   </a>
 </div>
