@@ -105,7 +105,7 @@
 
   <!-- Upwork (white logo color for contrast) -->
   <a href="https://www.upwork.com/freelancers/~01a2b4ce6fde353fe9?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&style=flat" height="35" alt="upwork logo" />
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=flat" height="35" alt="upwork logo" />
   </a>
 </div>
 
@@ -138,8 +138,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RazanAhmad7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RazanAhmad7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- Main GitHub stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RazanAhmad7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" alt="Razan's GitHub stats" height="165" />
+
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazanAhmad7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Razan's top languages" height="165" />
 </div>
 
 ###
