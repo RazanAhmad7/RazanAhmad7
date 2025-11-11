@@ -9,9 +9,9 @@
 <h3 align="center">Want to see my latest updates? Check them here ..</h3>
 
 ###
-<a href="https://www.linkedin.com/in/razan-alsamri" target="_blank" style="text-decoration:none">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" />
-  <span style="vertical-align:middle; margin-left:8px;">Razan's LinkedIn</span>
+<a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Razan%27s&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge&logoWidth=30"
+       alt="Razan's LinkedIn" />
 </a>
 <h3 align="left">👩🏻‍💻 All Languages, Technologies, and Tools ..</h3>
 
