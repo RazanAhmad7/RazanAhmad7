@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Razan's&color=0077B5&logoColor=white&style=flat"
-       width="120" height="40" alt="linkedin logo" />
+       width="120" height="80" alt="linkedin logo" />
 </a>
 
 ###
