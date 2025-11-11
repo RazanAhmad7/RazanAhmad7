@@ -11,7 +11,7 @@
 ###
 <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="52" height="52" alt="linkedin logo" />
+       width="82" height="82" alt="linkedin logo" />
 </a>
 
 <h3 align="left">👩🏻‍💻 All Languages, Technologies, and Tools ..</h3>
