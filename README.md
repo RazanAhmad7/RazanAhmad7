@@ -9,12 +9,10 @@
 <h3 align="center">Want to see my latest updates? Check them here ..</h3>
 
 ###
-
 <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Razan's&color=0077B5&logoColor=white&style=flat"
-       width="120" height="80" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge&logoWidth=80"
+       alt="linkedin logo" />
 </a>
-
 ###
 
 <h3 align="left">👩🏻‍💻 All Languages, Technologies, and Tools ..</h3>
