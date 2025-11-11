@@ -102,11 +102,10 @@
 ###
 
 <div align="left">
-
-
-  <!-- Upwork (white logo color for contrast) -->
   <a href="https://www.upwork.com/freelancers/~01a2b4ce6fde353fe9?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=flat" height="35" alt="upwork logo" />
+    <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" 
+         style="height:45px !important; width:auto;" 
+         alt="upwork logo" />
   </a>
 </div>
 
@@ -116,18 +115,23 @@
 <h3 align="left">📱 Social links ..</h3>
 
 ###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+         style="height:45px !important; width:auto;" 
+         alt="LinkedIn logo" />
   </a>
 
   <a href="https://discord.gg/2xpd5BcF" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=flat" height="35" alt="Discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" 
+         style="height:45px !important; width:auto;" 
+         alt="Discord logo" />
   </a>
 
   <a href="mailto:razan.alsamra77@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14840&logoColor=white&labelColor=&style=flat" height="35" alt="Gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14840&logoColor=white&labelColor=&style=for-the-badge" 
+         style="height:45px !important; width:auto;" 
+         alt="Gmail logo" />
   </a>
 </div>
 
