@@ -10,10 +10,9 @@
 
 ###
 <a href="https://www.linkedin.com/in/razan-alsamri" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="82" height="82" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?label=Razan%27s&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=flat"
+       width="140" height="35" alt="Razan's LinkedIn" />
 </a>
-
 <h3 align="left">👩🏻‍💻 All Languages, Technologies, and Tools ..</h3>
 
 ###
